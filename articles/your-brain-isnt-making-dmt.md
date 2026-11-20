@@ -57,7 +57,7 @@ First, they removed the pineal glands from some rats, and the DMT was still ther
 
 Second, during induced cardiac arrest, DMT levels in the visual cortex spiked. That is the detail that fuels the deathbed story, and it is the detail that needs the most care.
 
-To be fair to the claim, there is real evidence pointing at the pineal. DMT has been measured coming out of rat pineal glands, which is why the story has staying power. But a rat gland is not a human brain, and a detectable amount is not a psychoactive one. That gap is the whole argument.
+To be fair to the claim, there is real evidence pointing at the pineal. In 2013, Steven Barker's group measured DMT in fluid collected from rat pineal glands, which is why the story has staying power. But a rat gland is not a human brain, and a detectable amount is not a psychoactive one. That gap is the whole argument.
 
 ---
 
@@ -135,6 +135,7 @@ That question is still open. It deserves writing that does not close it early.
 
 ## References
 
+- Barker, S. A., Borjigin, J., Lomnicka, I., & Strassman, R. "LC/MS/MS analysis of the endogenous dimethyltryptamine hallucinogens, their precursors, and major metabolites in rat pineal gland microdialysate." *Biomedical Chromatography*, 2013. https://doi.org/10.1002/bmc.2981
 - Barker, S. A., Frecska, E., et al. "N,N-Dimethyltryptamine (DMT), an Endogenous Hallucinogen: Past, Present, and Future Research to Determine Its Role and Function." *Frontiers in Neuroscience*, 2018. https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2018.00536/full
 - Dean, J. G., Liu, T., Huff, S., Sheler, B., Barker, S. A., Strassman, R. J., Wang, M. M., Borjigin, J. "Biosynthesis and Extracellular Concentrations of N,N-dimethyltryptamine (DMT) in Mammalian Brain." *Scientific Reports*, 2019. https://www.nature.com/articles/s41598-019-45812-w
 - Nichols, D. E. "N,N-dimethyltryptamine and the pineal gland: Separating fact from myth." *Journal of Psychopharmacology*, 2018. https://doi.org/10.1177/0269881117736919
